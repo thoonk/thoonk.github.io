@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thoonk.github.io/records/</loc>
+    <lastmod>2021-07-17T16:30:46+09:00</lastmod>
+  </url><url>
+    <loc>https://thoonk.github.io/records/test-page/</loc>
+    <lastmod>2021-07-17T16:30:46+09:00</lastmod>
+  </url><url>
+    <loc>https://thoonk.github.io/</loc>
+    <lastmod>2021-07-17T16:30:46+09:00</lastmod>
+  </url><url>
     <loc>https://thoonk.github.io/authors/</loc>
   </url><url>
     <loc>https://thoonk.github.io/categories/</loc>
@@ -9,7 +18,5 @@
     <loc>https://thoonk.github.io/series/</loc>
   </url><url>
     <loc>https://thoonk.github.io/tags/</loc>
-  </url><url>
-    <loc>https://thoonk.github.io/</loc>
   </url>
 </urlset>

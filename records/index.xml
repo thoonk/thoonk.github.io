@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thoonk&#39;s devlog</title>
-    <link>https://thoonk.github.io/</link>
-    <description>Recent content on thoonk&#39;s devlog</description>
+    <title>Records on thoonk&#39;s devlog</title>
+    <link>https://thoonk.github.io/records/</link>
+    <description>Recent content in Records on thoonk&#39;s devlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jul 2021 16:30:46 +0900</lastBuildDate><atom:link href="https://thoonk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jul 2021 16:30:46 +0900</lastBuildDate><atom:link href="https://thoonk.github.io/records/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Page</title>
       <link>https://thoonk.github.io/records/test-page/</link>
